@@ -9,8 +9,8 @@ const CONFIG = {
   // === PROFIL ===
   name: "JemoDusunTV",
   location: "Bengkulu – Sumatera, Indonesia",
-  tagline: "Channel outdoor & petualangan sungai yang merekam keindahan alam Sumatera secara autentik — dari memancing di pedalaman hingga menjelajahi jalur air yang belum pernah dieksplor.",
-  niche: ["Outdoor & Alam", "Petualangan Sungai", "Memancing", "Bengkulu", "Sumatera"],
+  tagline: "Channel outdoor & petualangan sungai yang merekam keindahan alam secara autentik — dari memancing di pedalaman hingga menjelajahi jalur air yang belum pernah dieksplor.",
+  niche: ["Outdoor & Alam", "Petualangan Sungai", "Memancing","Camping"],
 
   // === KONTAK ===
   email: "jemodusuntv@gmail.com",
