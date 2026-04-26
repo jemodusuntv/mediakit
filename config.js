@@ -19,8 +19,8 @@ const CONFIG = {
   // === YOUTUBE API ===
   // Dapatkan API key gratis di: https://console.cloud.google.com
   // Enable "YouTube Data API v3" lalu buat API Key
-  youtube_api_key: "AIzaSyAsEOhRclDQClk7T2hILzY_X0-mUG48tk8",
-  youtube_channel_id: "UCiuEntdrBwtjx0ZWNMNbEvA", // Ganti dengan Channel ID asli Anda
+  youtube_api_key: "ISI_API_KEY_ANDA_DI_SINI",
+  youtube_channel_id: "UCjemodusuntv", // Ganti dengan Channel ID asli Anda
 
   // === DATA MANUAL (update berkala) ===
   // Format: angka asli, tampilan otomatis diformat
